@@ -15,7 +15,28 @@ time.sleep(10)
 pg.leftClick(1692, 414)
 time.sleep(5)
 
-list=["longest word", "ML courses", "Networking", "microsoft", "talent", "paytm", "kind", "stress", "valorent", "songs"]
+list=[
+    "python",
+    "AI",
+    "crypto",
+    "blockchain",
+    "NFT",
+    "vaccine",
+    "metaverse",
+    "sustainability",
+    "space",
+    "innovation",
+    "climate",
+    "AR",
+    "health",
+    "smartphones",
+    "robotics",
+    "automation",
+    "privacy",
+    "data",
+    "cybersecurity",
+    "renewable"
+]
 
 
 for i in range(20):
